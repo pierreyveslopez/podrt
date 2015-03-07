@@ -1,0 +1,2602 @@
+2015-03-05 21:47:52 Error: [MissingActionException] Action TattoosController::mar() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'mar',
+)
+Request URL: /podrt/tattoos/mar
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 21:47:57 Error: [MissingActionException] Action TattoosController::marc() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'marc',
+)
+Request URL: /podrt/tattoos/marc
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 21:49:51 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [/Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php, line 4]
+2015-03-05 21:49:51 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+Request URL: /podrt/tattoos/index/marc
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 4)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 4, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 4, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-05 22:01:33 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/assets/js/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:01:33 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:01:33 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:01:33 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/css/templates/foundation.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:01:33 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/foundation.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:01:33 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/assets/js/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:01:33 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:01:34 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/foundation.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:03:11 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/assets/js/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:03:11 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/foundation.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:03:11 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/css/templates/foundation.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:03:11 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:03:11 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:03:24 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 62914560 bytes) in [/Applications/MAMP/htdocs/podrt/lib/Cake/Utility/Debugger.php, line 605]
+2015-03-05 22:03:24 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 62914560 bytes)
+Request URL: /podrt/tattoos/assets/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Allowed memory ...', '/Applications/M...', 605)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', '/Applications/M...', 605, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', '/Applications/M...', 605, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-05 22:03:24 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 62914560 bytes) in [/Applications/MAMP/htdocs/podrt/lib/Cake/Utility/Debugger.php, line 605]
+2015-03-05 22:03:24 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 62914560 bytes)
+Request URL: /podrt/tattoos/assets/js/templates/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Allowed memory ...', '/Applications/M...', 605)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', '/Applications/M...', 605, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', '/Applications/M...', 605, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-05 22:03:24 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 62914560 bytes) in [/Applications/MAMP/htdocs/podrt/lib/Cake/Utility/Debugger.php, line 605]
+2015-03-05 22:03:24 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 62914560 bytes)
+Request URL: /podrt/tattoos/assets/css/templates/foundation.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Allowed memory ...', '/Applications/M...', 605)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', '/Applications/M...', 605, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', '/Applications/M...', 605, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-05 22:03:24 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 62914560 bytes) in [/Applications/MAMP/htdocs/podrt/lib/Cake/Utility/Debugger.php, line 605]
+2015-03-05 22:03:24 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 62914560 bytes)
+Request URL: /podrt/tattoos/assets/js/templates/foundation.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Allowed memory ...', '/Applications/M...', 605)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', '/Applications/M...', 605, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', '/Applications/M...', 605, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-05 22:03:26 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 62914560 bytes) in [/Applications/MAMP/htdocs/podrt/lib/Cake/basics.php, line 120]
+2015-03-05 22:03:26 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 62914560 bytes)
+Request URL: /podrt/assets/js/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Allowed memory ...', '/Applications/M...', 120)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', '/Applications/M...', 120, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', '/Applications/M...', 120, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-05 22:08:29 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/assets/js/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:08:29 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:08:29 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:08:29 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/foundation.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:08:29 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/assets/js/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:08:29 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:08:30 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/foundation.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:09:12 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/assets/js/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:09:13 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/foundation.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:09:13 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:09:13 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/assets/js/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:09:13 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:09:13 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/foundation.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:11:19 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/assets/js/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:11:19 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/foundation.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:11:19 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:11:19 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/assets/js/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:11:19 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:11:19 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/foundation.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:11:31 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/assets/js/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:11:31 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:11:31 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/foundation.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:11:31 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/assets/js/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:11:31 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:11:32 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/foundation.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:12:03 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/assets/js/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:12:03 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:12:03 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/foundation.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:12:03 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/assets/js/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:12:03 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:12:03 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/foundation.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:12:19 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/assets/js/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:12:19 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:12:19 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/foundation.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:12:19 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/assets/js/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:12:19 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:12:19 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/foundation.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:13:21 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/assets/js/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:13:21 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/foundation.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:13:21 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:13:21 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:13:21 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/assets/js/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:13:21 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/jquery.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:13:21 Error: [MissingActionException] Action TattoosController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'assets',
+)
+Request URL: /podrt/tattoos/assets/js/templates/foundation.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:16:08 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:17:30 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in [/Applications/MAMP/htdocs/podrt/app/View/Layouts/default.ctp, line 27]
+2015-03-05 22:17:30 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';'
+Request URL: /podrt/tattoos/index/marc
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 27)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 27, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 27, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-05 22:17:59 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in [/Applications/MAMP/htdocs/podrt/app/View/Layouts/default.ctp, line 27]
+2015-03-05 22:17:59 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';'
+Request URL: /podrt/tattoos/index/marc
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 27)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 27, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 27, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-05 22:18:00 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in [/Applications/MAMP/htdocs/podrt/app/View/Layouts/default.ctp, line 27]
+2015-03-05 22:18:00 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';'
+Request URL: /podrt/tattoos/index/marc
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 27)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 27, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 27, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-05 22:18:00 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in [/Applications/MAMP/htdocs/podrt/app/View/Layouts/default.ctp, line 27]
+2015-03-05 22:18:00 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';'
+Request URL: /podrt/tattoos/index/marc
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 27)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 27, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 27, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-05 22:18:01 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in [/Applications/MAMP/htdocs/podrt/app/View/Layouts/default.ctp, line 27]
+2015-03-05 22:18:01 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';'
+Request URL: /podrt/tattoos/index/marc
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 27)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 27, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 27, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-05 22:18:12 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:19:52 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:20:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:22:26 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:23:26 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:24:47 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:25:15 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:28:47 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:28:54 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:30:22 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:38:33 Error: Fatal Error (64): Cannot redeclare class Post in [/Applications/MAMP/htdocs/podrt/app/Model/Tattoo.php, line 4]
+2015-03-05 22:38:33 Error: [FatalErrorException] Cannot redeclare class Post
+Request URL: /podrt/tattoos/index/ahbon
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/M...', 4)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/M...', 4, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/M...', 4, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-05 22:38:33 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:38:33 Error: Fatal Error (64): Cannot redeclare class Post in [/Applications/MAMP/htdocs/podrt/app/Model/Tattoo.php, line 4]
+2015-03-05 22:38:33 Error: [FatalErrorException] Cannot redeclare class Post
+Request URL: /podrt/tattoos/index/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/M...', 4)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/M...', 4, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/M...', 4, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-05 22:38:57 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:42:05 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:42:10 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:42:12 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:42:12 Error: [MissingActionException] Action Tattoos::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'Tattoos',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Controller/Scaffold.php(150): Scaffold->_scaffold(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Controller/Controller.php(535): Scaffold->__construct(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Controller/Controller.php(494): Controller->_getScaffold(Object(CakeRequest))
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#5 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2015-03-05 22:42:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:42:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:42:31 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:42:32 Error: [NotFoundException] Invalid Tattoo
+Request URL: /podrt/tattoos/view/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Controller/Scaffold.php(386): Scaffold->_scaffoldView(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Controller/Scaffold.php(150): Scaffold->_scaffold(Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Controller/Controller.php(535): Scaffold->__construct(Object(TattoosController), Object(CakeRequest))
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Controller/Controller.php(494): Controller->_getScaffold(Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#5 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#6 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2015-03-05 22:42:37 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:42:37 Error: [NotFoundException] Invalid Tattoo
+Request URL: /podrt/tattoos/edit/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Controller/Scaffold.php(394): Scaffold->_scaffoldSave(Object(CakeRequest), 'edit')
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Controller/Scaffold.php(150): Scaffold->_scaffold(Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Controller/Controller.php(535): Scaffold->__construct(Object(TattoosController), Object(CakeRequest))
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Controller/Controller.php(494): Controller->_getScaffold(Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#5 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#6 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2015-03-05 22:42:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:42:50 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:42:51 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:42:51 Error: [MissingActionException] Action Tattoos::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'Tattoos',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Controller/Scaffold.php(150): Scaffold->_scaffold(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Controller/Controller.php(535): Scaffold->__construct(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Controller/Controller.php(494): Controller->_getScaffold(Object(CakeRequest))
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#5 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2015-03-05 22:43:05 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:43:05 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:43:52 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:43:52 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:44:07 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:44:07 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:44:16 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:45:33 Error: Fatal Error (1): Call to undefined method TattoosController::find() in [/Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php, line 6]
+2015-03-05 22:45:33 Error: [FatalErrorException] Call to undefined method TattoosController::find()
+Request URL: /podrt/tattoos/index/test
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/M...', 6)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/M...', 6, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/M...', 6, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-05 22:45:33 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:45:33 Error: Fatal Error (1): Call to undefined method TattoosController::find() in [/Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php, line 6]
+2015-03-05 22:45:33 Error: [FatalErrorException] Call to undefined method TattoosController::find()
+Request URL: /podrt/tattoos/index/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/M...', 6)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/M...', 6, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/M...', 6, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-05 22:46:25 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:55:07 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:55:11 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:55:11 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:56:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:56:28 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:57:08 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:57:08 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:57:09 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:57:10 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:57:10 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:57:10 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:57:10 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:57:10 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:57:56 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:57:57 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 22:59:51 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 22:59:51 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-05 23:01:37 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-05 23:01:37 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 09:40:28 Error: Fatal Error (4): syntax error, unexpected 'uploadImage' (T_STRING), expecting function (T_FUNCTION) in [/Applications/MAMP/htdocs/podrt/app/Model/Tattoo.php, line 3]
+2015-03-06 09:40:28 Error: [FatalErrorException] syntax error, unexpected 'uploadImage' (T_STRING), expecting function (T_FUNCTION)
+Request URL: /podrt/tattoos/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-06 09:40:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 09:40:28 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 09:40:54 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 09:40:54 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 09:41:24 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 09:41:24 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 09:41:27 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 09:41:28 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 09:41:38 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 09:41:39 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 09:41:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 09:41:53 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 09:42:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 09:42:03 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 09:42:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 09:42:33 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 09:43:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 09:43:04 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 13:25:59 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 13:26:00 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 13:26:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 13:26:28 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 13:28:10 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 13:28:10 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 13:28:15 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 13:28:15 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 13:28:19 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 13:28:19 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 13:29:29 Error: Fatal Error (4): syntax error, unexpected '}' in [/Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php, line 17]
+2015-03-06 13:29:29 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /podrt/tattoos/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 17, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 17, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-06 13:29:29 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 13:29:29 Error: Fatal Error (4): syntax error, unexpected '}' in [/Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php, line 17]
+2015-03-06 13:29:29 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 17, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 17, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-06 13:29:47 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 13:29:47 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 13:29:54 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 13:29:54 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 13:29:58 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 13:29:59 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 13:30:10 Error: Fatal Error (4): syntax error, unexpected end of file, expecting function (T_FUNCTION) in [/Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php, line 43]
+2015-03-06 13:30:10 Error: [FatalErrorException] syntax error, unexpected end of file, expecting function (T_FUNCTION)
+Request URL: /podrt/tattoos/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 43)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 43, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 43, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-06 13:30:11 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 13:30:11 Error: Fatal Error (4): syntax error, unexpected end of file, expecting function (T_FUNCTION) in [/Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php, line 43]
+2015-03-06 13:30:11 Error: [FatalErrorException] syntax error, unexpected end of file, expecting function (T_FUNCTION)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 43)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 43, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 43, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-06 13:30:23 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 13:30:23 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 13:30:26 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 13:30:26 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 13:36:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 13:36:34 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 13:39:03 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'findbyName' at line 1
+Request URL: /podrt/tattoos/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('findbyName', Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('findbyName', Array, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(611): DboSource->fetchAll('findbyName', Array, Array)
+#4 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Model.php(827): DboSource->query('findbyName', Array, Object(Tattoo))
+#5 /Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php(16): Model->__call('findbyName', Array)
+#6 /Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php(16): Tattoo->findbyName(NULL)
+#7 [internal function]: TattoosController->add()
+#8 /Applications/MAMP/htdocs/podrt/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(TattoosController), Array)
+#9 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#11 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-03-06 13:39:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 13:39:03 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 13:40:36 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php, line 16]
+2015-03-06 13:40:36 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /podrt/tattoos/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 16)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 16, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 16, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-06 13:40:37 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 13:40:37 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php, line 16]
+2015-03-06 13:40:37 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 16)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 16, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 16, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-06 13:40:44 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'findbyName' at line 1
+Request URL: /podrt/tattoos/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('findbyName', Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('findbyName', Array, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(611): DboSource->fetchAll('findbyName', Array, Array)
+#4 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Model.php(827): DboSource->query('findbyName', Array, Object(Tattoo))
+#5 /Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php(16): Model->__call('findbyName', Array)
+#6 /Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php(16): Tattoo->findbyName(NULL)
+#7 [internal function]: TattoosController->add()
+#8 /Applications/MAMP/htdocs/podrt/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(TattoosController), Array)
+#9 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#11 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-03-06 13:40:45 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 13:40:45 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 13:40:53 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'findbyName' at line 1
+Request URL: /podrt/tattoos/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('findbyName', Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('findbyName', Array, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(611): DboSource->fetchAll('findbyName', Array, Array)
+#4 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Model.php(827): DboSource->query('findbyName', Array, Object(Tattoo))
+#5 /Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php(16): Model->__call('findbyName', Array)
+#6 /Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php(16): Tattoo->findbyName(NULL)
+#7 [internal function]: TattoosController->add()
+#8 /Applications/MAMP/htdocs/podrt/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(TattoosController), Array)
+#9 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#11 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-03-06 13:40:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 13:40:53 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 13:41:01 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'findbyName' at line 1
+Request URL: /podrt/tattoos/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('findbyName', Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('findbyName', Array, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(611): DboSource->fetchAll('findbyName', Array, Array)
+#4 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Model.php(827): DboSource->query('findbyName', Array, Object(Tattoo))
+#5 /Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php(16): Model->__call('findbyName', Array)
+#6 /Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php(16): Tattoo->findbyName('test')
+#7 [internal function]: TattoosController->add()
+#8 /Applications/MAMP/htdocs/podrt/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(TattoosController), Array)
+#9 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#11 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-03-06 13:41:01 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 13:41:01 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 13:41:29 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'findbyUrl' at line 1
+Request URL: /podrt/tattoos/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('findbyUrl', Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('findbyUrl', Array, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(611): DboSource->fetchAll('findbyUrl', Array, Array)
+#4 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Model.php(827): DboSource->query('findbyUrl', Array, Object(Tattoo))
+#5 /Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php(16): Model->__call('findbyUrl', Array)
+#6 /Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php(16): Tattoo->findbyUrl('test')
+#7 [internal function]: TattoosController->add()
+#8 /Applications/MAMP/htdocs/podrt/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(TattoosController), Array)
+#9 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#11 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-03-06 13:41:29 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 13:41:29 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 13:41:47 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 13:41:47 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 13:48:02 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'created' at line 1
+Request URL: /podrt/tattoos/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('created', Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('created', Array, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(611): DboSource->fetchAll('created', Array, Array)
+#4 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Model.php(827): DboSource->query('created', Array, Object(Tattoo))
+#5 /Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php(17): Model->__call('created', Array)
+#6 /Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php(17): Tattoo->created(Array, true)
+#7 [internal function]: TattoosController->add()
+#8 /Applications/MAMP/htdocs/podrt/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(TattoosController), Array)
+#9 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#11 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-03-06 13:48:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 13:48:02 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 13:50:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 13:50:32 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 13:51:12 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 13:51:12 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 14:17:08 Error: Fatal Error (4): syntax error, unexpected 'in_array' (T_STRING) in [/Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php, line 20]
+2015-03-06 14:17:08 Error: [FatalErrorException] syntax error, unexpected 'in_array' (T_STRING)
+Request URL: /podrt/tattoos/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 20, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 20, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-06 14:17:09 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 14:17:09 Error: Fatal Error (4): syntax error, unexpected 'in_array' (T_STRING) in [/Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php, line 20]
+2015-03-06 14:17:09 Error: [FatalErrorException] syntax error, unexpected 'in_array' (T_STRING)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 20, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 20, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-06 14:17:33 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 14:17:34 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 14:20:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 14:20:49 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 14:24:08 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 14:24:08 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 14:26:56 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 14:26:57 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 14:27:05 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 14:27:05 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 14:32:29 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 14:32:29 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 19:52:13 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 19:52:13 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 19:54:57 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php, line 14]
+2015-03-06 19:54:57 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /podrt/tattoos/view/7
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 14)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 14, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 14, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-06 19:54:57 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 19:54:57 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php, line 14]
+2015-03-06 19:54:57 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /podrt/tattoos/view/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 14)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 14, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 14, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-06 19:55:10 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Tattoo.i_d' in 'where clause'
+Request URL: /podrt/tattoos/view/7
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Tattoo`...', Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Tattoo`...', Array, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Tattoo`...', false)
+#4 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Model.php(3022): DboSource->read(Object(Tattoo), Array)
+#5 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Model.php(2994): Model->_readDataSource('first', Array)
+#6 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(599): Model->find('first', Array)
+#7 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Model.php(827): DboSource->query('findByID', Array, Object(Tattoo))
+#8 /Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php(14): Model->__call('findByID', Array)
+#9 /Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php(14): Tattoo->findByID('7')
+#10 [internal function]: TattoosController->view('7')
+#11 /Applications/MAMP/htdocs/podrt/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(TattoosController), Array)
+#12 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#13 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#14 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#15 {main}
+2015-03-06 19:55:10 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 19:55:10 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Tattoo.i_d' in 'where clause'
+Request URL: /podrt/tattoos/view/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Tattoo`...', Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Tattoo`...', Array, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Tattoo`...', false)
+#4 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Model.php(3022): DboSource->read(Object(Tattoo), Array)
+#5 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Model.php(2994): Model->_readDataSource('first', Array)
+#6 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Datasource/DboSource.php(599): Model->find('first', Array)
+#7 /Applications/MAMP/htdocs/podrt/lib/Cake/Model/Model.php(827): DboSource->query('findByID', Array, Object(Tattoo))
+#8 /Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php(14): Model->__call('findByID', Array)
+#9 /Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php(14): Tattoo->findByID('js')
+#10 [internal function]: TattoosController->view('js', 'vendor', 'zepto.js')
+#11 /Applications/MAMP/htdocs/podrt/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(TattoosController), Array)
+#12 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#13 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#14 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#15 {main}
+2015-03-06 19:55:34 Error: [MissingViewException] View file "Tattoos/view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Tattoos/view.ctp',
+)
+Request URL: /podrt/tattoos/view/7
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-03-06 19:55:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 19:55:35 Error: [MissingViewException] View file "Tattoos/view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Tattoos/view.ctp',
+)
+Request URL: /podrt/tattoos/view/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-03-06 19:55:45 Error: [MissingViewException] View file "Tattoos/view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Tattoos/view.ctp',
+)
+Request URL: /podrt/tattoos/view/10
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-03-06 19:55:46 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 19:55:46 Error: [MissingViewException] View file "Tattoos/view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Tattoos/view.ctp',
+)
+Request URL: /podrt/tattoos/view/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-03-06 19:56:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 19:58:39 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 19:58:39 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 21:10:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 21:10:28 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 21:10:37 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 21:10:37 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 21:12:52 Error: Fatal Error (4): syntax error, unexpected '?' in [/Applications/MAMP/htdocs/podrt/app/View/Tattoos/add.ctp, line 2]
+2015-03-06 21:12:52 Error: [FatalErrorException] syntax error, unexpected '?'
+Request URL: /podrt/tattoos/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 2, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 2, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-06 21:12:52 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 21:12:52 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 21:13:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 21:13:17 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 21:13:45 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 21:13:46 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-06 21:16:15 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-06 21:16:15 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-07 10:02:38 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/js/modernizr.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-07 10:02:39 Error: [MissingActionException] Action TattoosController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TattoosController',
+  'action' => 'js',
+)
+Request URL: /podrt/tattoos/js/vendor/zepto.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/podrt/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(TattoosController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-07 10:06:28 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php, line 74]
+2015-03-07 10:06:28 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /podrt/tattoos/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 74)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 74, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 74, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-07 10:07:00 Error: Fatal Error (4): syntax error, unexpected end of file, expecting function (T_FUNCTION) in [/Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php, line 74]
+2015-03-07 10:07:00 Error: [FatalErrorException] syntax error, unexpected end of file, expecting function (T_FUNCTION)
+Request URL: /podrt/tattoos/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 74)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 74, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 74, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-07 10:35:23 Error: Fatal Error (4): syntax error, unexpected 'uploadImage' (T_STRING), expecting variable (T_VARIABLE) in [/Applications/MAMP/htdocs/podrt/app/Model/Tattoo.php, line 17]
+2015-03-07 10:35:23 Error: [FatalErrorException] syntax error, unexpected 'uploadImage' (T_STRING), expecting variable (T_VARIABLE)
+Request URL: /podrt/tattoos/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 17, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 17, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-07 10:36:33 Error: Fatal Error (1): Call to undefined function uploadImage() in [/Applications/MAMP/htdocs/podrt/app/Controller/TattoosController.php, line 26]
+2015-03-07 10:36:33 Error: [FatalErrorException] Call to undefined function uploadImage()
+Request URL: /podrt/tattoos/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/M...', 26)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/M...', 26, Array)
+#2 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/M...', 26, Array)
+#3 /Applications/MAMP/htdocs/podrt/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-07 10:56:00 Error: [MissingControllerException] Controller class CategoriesController could not be found.
+Exception Attributes: array (
+  'class' => 'CategoriesController',
+  'plugin' => NULL,
+)
+Request URL: /podrt/categories
+Stack Trace:
+#0 /Applications/MAMP/htdocs/podrt/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
